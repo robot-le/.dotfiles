@@ -1,0 +1,2 @@
+alias set-tresholds='sudo tlp setcharge 40 80 BAT0'
+alias remove-tresholds='sudo tlp fullcharge BAT0'
